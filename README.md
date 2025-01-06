@@ -1,5 +1,5 @@
-# Il lessico della costituzione nel suo farsi
-## Creazione e analisi di un corpus dell'assemblea parlamentare
+# Il lessico della Costituzione nel suo farsi
+## Creazione e analisi di un corpus dell'Assemblea Parlamentare
 
 ![Python](https://img.shields.io/badge/Lang-Python-blue)
 
