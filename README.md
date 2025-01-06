@@ -27,3 +27,5 @@ La repository contiene i seguenti documenti e le seguenti cartelle:
 *doc* : La cratella contiente il report descrittivo del progetto e una relazionbe che riassume e analizza i risulati ottenuti. 
 
 *requirements.txt* : dipendenze del progetto Python.
+
+*venv* : ambieente virtuale.
