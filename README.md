@@ -1,5 +1,7 @@
 # Assemblea_Costituzionale_NLP
 
+![Python](https://img.shields.io/badge/Lang-Python-blue)
+
 Analisi con tecniche NLP e di Topic Model di un corpus rappresentativo della discussione dell’Assemblea Costituente (1947).
 
 ## Descrizione 
