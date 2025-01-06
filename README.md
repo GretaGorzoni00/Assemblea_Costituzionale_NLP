@@ -23,7 +23,7 @@ La repository contiene i seguenti documenti e le seguenti cartelle:
 
 *assemblea* : la cartella contiene i file .txt delle relazioni che compongono il corpus. Questo è l'output otenuto tramite web swcraping e normalizzazione del testo. 
 
-*code* : scrpit del progetto
+*code* : scrpit del progetto.
 
 *output* : Gli output sono file risultanti dall'esecuzione dello script. La cartella contiene 3 file HTML, uno per il barplot delle parole più frequenti, uno per l'analisi nell'andamento temporale delle parole significaive TF-IDF, uno per l'infografica del Topic Model. All'interno vi è anche una cartella relativa al modello per il Topic Model, contenente corpus e dizionario.
 
