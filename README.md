@@ -1,4 +1,5 @@
-# Assemblea_Costituzionale_NLP
+# Il lessico della costituzione nel suo farsi
+## Creazione e analisi di un corpus dell'assemblea parlamentare
 
 ![Python](https://img.shields.io/badge/Lang-Python-blue)
 
