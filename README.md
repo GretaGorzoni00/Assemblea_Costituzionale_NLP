@@ -12,11 +12,11 @@ Il lavoro consiste in un'analisi linguistica dei discorsi dell'Assemblea Costitu
 ## Fasi del lavoro 
 Il progetto è strutturato in tre fasi principali del lavoro:
 
-* Creazione del Corpus:  Il corpus è stato ottenuto tramite web scraping, raccogliendo i discorsi dell'Assemblea Costituente. Una volta raccolto, il corpus è stato normalizzato per garantire che il testo fosse coerente e pronto per l'analisi.
+* **Creazione del Corpus**:  Il corpus è stato ottenuto tramite web scraping, raccogliendo i discorsi dell'Assemblea Costituente. Una volta raccolto, il corpus è stato normalizzato per garantire che il testo fosse coerente e pronto per l'analisi.
 
-* Analisi Statistico/Frequenziale: L'analisi prevede l'esplorazione del corpus attraverso tecniche statistiche e frequenziali per identificare le parole e i concetti più ricorrenti.
+* **Analisi Statistico/Frequenziale**: L'analisi prevede l'esplorazione del corpus attraverso tecniche statistiche e frequenziali per identificare le parole e i concetti più ricorrenti.
 
-* Topic Modelling : viene utilizzato il topic modelling per estrarre argomenti latenti e capire le principali tematiche trattate nel dibattito.
+* **Topic Modelling**: viene utilizzato il topic modelling per estrarre argomenti latenti e capire le principali tematiche trattate nel dibattito.
 
 ## Documentazione 
 La repository contiene i seguenti documenti e le seguenti cartelle:
