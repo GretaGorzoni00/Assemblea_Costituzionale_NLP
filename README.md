@@ -27,6 +27,6 @@ La repository contiene i seguenti documenti e le seguenti cartelle:
 
 *output* : Gli output sono file risultanti dall'esecuzione dello script. La cartella contiene 3 file HTML, uno per il barplot delle parole più frequenti, uno per l'analisi nell'andamento temporale delle parole significaive TF-IDF, uno per l'infografica del Topic Model. All'interno vi è anche una cartella relativa al modello per il Topic Model, contenente corpus e dizionario.
 
-*doc* : La cratella contiente il report descrittivo del progetto e una relazionbe che riassume e analizza i risulati ottenuti. 
+*doc* : La cartella contiente il report descrittivo del progetto e una relazione che riassume e analizza i risulati ottenuti. 
 
 *requirements.txt* : dipendenze del progetto Python.
